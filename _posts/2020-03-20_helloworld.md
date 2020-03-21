@@ -1,4 +1,3 @@
-```bash
 ---
 layout:     post                    # 使用的布局（不需要改）
 title:      My First Post               # 标题 
@@ -11,7 +10,10 @@ tags:                               #标签
     - 生活
 ---
 
-## Hey
->这是我的第一篇博客。
-```
 
+
+
+
+## hey
+
+> 这是个hello world
