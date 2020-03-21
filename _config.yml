@@ -1,7 +1,7 @@
 # Site settings
 title: select * from L.Sang;
 SEOTitle: 桑栎的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/title.jpg
 email: hellosangli@gmail.com
 description: "Every failure is leading towards success."
 keyword: "RDBMS,PostgreSQL,MySQL,File System,桑栎,parallel"
